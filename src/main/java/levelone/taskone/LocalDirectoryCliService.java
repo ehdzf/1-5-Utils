@@ -6,7 +6,7 @@ public class LocalDirectoryCliService implements FileService {
     Output output;
     LocalDirectoryLister lister;
 
-    public LocalDirectoryCliService (String path, Output output) {
+    public LocalDirectoryCliService(String path, Output output) {
         this.output = output;
         this.lister = new LocalDirectoryLister(path);
 

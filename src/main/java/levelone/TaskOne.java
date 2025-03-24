@@ -1,8 +1,8 @@
 package levelone;
 
-import levelone.taskone.StringListToCliOutput;
 import levelone.taskone.LocalDirectoryCliService;
 import levelone.taskone.Output;
+import levelone.taskone.StringListToCliOutput;
 
 public class TaskOne {
     public static void main(String[] args) {

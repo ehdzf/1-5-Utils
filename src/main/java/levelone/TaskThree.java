@@ -1,8 +1,8 @@
 package levelone;
 
-import levelone.taskone.StringListToFileOutput;
 import levelone.taskone.Output;
 import levelone.taskone.RecursiveLocalDirectoryService;
+import levelone.taskone.StringListToFileOutput;
 
 public class TaskThree {
     private static final String FILE_NAME = "output.txt";

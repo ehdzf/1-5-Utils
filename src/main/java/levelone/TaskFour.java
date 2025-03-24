@@ -1,8 +1,8 @@
 package levelone;
 
-import levelone.taskone.StringListToCliOutput;
 import levelone.taskone.FileReaderService;
 import levelone.taskone.Output;
+import levelone.taskone.StringListToCliOutput;
 
 public class TaskFour {
     private static String path = "src/main/resources/levelone/taskfour/lorem.txt";

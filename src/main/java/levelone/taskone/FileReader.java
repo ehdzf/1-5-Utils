@@ -14,6 +14,7 @@ public class FileReader {
         readFile();
 
     }
+
     private void readFile() {
 
         try (BufferedReader reader = new BufferedReader(new java.io.FileReader(filePath))) {

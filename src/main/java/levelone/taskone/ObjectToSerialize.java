@@ -6,7 +6,7 @@ public class ObjectToSerialize implements Serializable {
     private final String name;
 
 
-    public ObjectToSerialize(String name)  {
+    public ObjectToSerialize(String name) {
         this.name = name;
 
     }
